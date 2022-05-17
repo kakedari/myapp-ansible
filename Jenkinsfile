@@ -1,3 +1,3 @@
 @Library('Shared-Library') _
 
-genericbuild()
+genericbuild.call()
